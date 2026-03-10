@@ -21,12 +21,11 @@
 <h6 align="left">Bacharel em Engenharia de Software | CST em Análise e Desenvolvimento de Sistemas | Mestrando em Ciência da Computação</h6>
 
 ###
-
 <p align="left">🚀 Áreas de Atuação:<br>- 📊 Análise de Dados e Business Intelligence<br>- 🧠 Inteligência Artificial e Redes Neurais<br>- 📂 Engenharia e Modelagem de Dados<br>- 🖥️ Desenvolvimento de Sistemas<br>- 🎓 Ensino  de Tecnologia<br>- 📚 Pesquisa Científica</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
 ###
 
