@@ -1,48 +1,91 @@
-<h1 align="center">Olá, Me chamo Weslen Rian👋</h1>
-
-###
+<h1 align="center">Olá, me chamo Weslen Rian 👋</h1>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/weslen-rian-pedro-da-silva-467098226/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://w.app/rjre5g" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+
+<a href="https://www.linkedin.com/in/weslen-rian-pedro-da-silva-467098226/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://w.app/rjre5g" target="_blank">
+<img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="mailto:seuemail@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
-###
+---
 
-<br clear="both">
+<h3 align="center">
+Bacharel em Engenharia de Software | Tecnólogo em Análise e Desenvolvimento de Sistemas | Mestrando em Ciência da Computação
+</h3>
 
-<h6 align="left">Bacharel em Engenharia de Software | CST em Análise e Desenvolvimento de Sistemas | Mestrando em Ciência da Computação</h6>
+<h3 align="center">
+📊 Analista de Dados | 🎓 Docente de Tecnologia | 📚 Pesquisador Científico
+</h3>
 
-###
-<p align="left">🚀 Áreas de Atuação:<br>- 📊 Análise de Dados e Business Intelligence<br>- 🧠 Inteligência Artificial e Redes Neurais<br>- 📂 Engenharia e Modelagem de Dados<br>- 🖥️ Desenvolvimento de Sistemas<br>- 🎓 Ensino  de Tecnologia<br>- 📚 Pesquisa Científica</p>
+---
 
-###
+### 🚀 Áreas de Atuação
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+- 📊 **Análise de Dados e Business Intelligence**
+- 🧠 **Inteligência Artificial e Redes Neurais**
+- 📂 **Engenharia e Modelagem de Dados**
+- 🖥️ **Desenvolvimento de Sistemas**
+- 🎓 **Ensino de Tecnologia**
+- 📚 **Pesquisa Científica**
 
-###
+---
+
+### 🛠 Linguagens e Ferramentas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
+
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+### 📚 Pesquisa Científica
 
-###
+- Artigo sobre **Redes Neurais Artificiais aplicadas à previsão de falhas mecânicas** 
+- Publicação em congresso **CONBREPRO**
+- Projeto científico apresentado no **Latinoware**
+
+---
+
+### 🎯 Atualmente estudando
+
+- Engenharia de Dados
+- Machine Learning
+- Arquitetura de Dados
+- Sistemas Inteligentes
+
+---
+
+### 👨‍💻 Autor
+
+**Weslen Rian Pedro da Silva** 
+
+LinkedIn: 
+https://www.linkedin.com/in/weslen-rian-pedro-da-silva-467098226/
+
+Curriculo Lattes: 
+https://lattes.cnpq.br/8011084424490748
