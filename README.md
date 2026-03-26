@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[https://w.app/rjre5g](https://wa.me/5542999971835?text=Olá%20gostaria%20de%20saber%20mais%20sobre%20seus%20projetos)" target="_blank">
+<a href="https://wa.me/5542999971835?text=Olá%20gostaria%20de%20saber%20mais%20sobre%20seus%20projetos" target="_blank">
 <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
